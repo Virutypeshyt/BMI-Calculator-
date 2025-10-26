@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(135deg, #00c6ff, #0072ff);
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.15);
+  padding: 25px;
+  border-radius: 12px;
+  width: 280px;
+}
+
+input, select, button {
+  margin: 10px 0;
+  padding: 8px;
+  border-radius: 8px;
+  border: none;
+}
